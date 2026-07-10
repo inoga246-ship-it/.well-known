@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.inoga246_ship_it.twa",
+        "sha256_cert_fingerprints": ["F0:67:4A:D1:64:5B:29:3A:C7:9B:60:0A:ED:9D:0E:3C:43:B5:B5:4E:9E:8F:0E:E5:1D:51:34:29:F4:B0:05:E6"]
+      }
+    }]

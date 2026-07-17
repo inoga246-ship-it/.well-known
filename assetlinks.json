@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.inoga246_ship_it.twa",
-        "sha256_cert_fingerprints": ["CE:CF:E4:FE:8A:3C:CB:F1:C9:6A:AE:26:F9:2B:08:A6:EA:97:AC:3B:F5:14:86:04:FC:1E:C1:06:C9:05:B3:48"]
+        "sha256_cert_fingerprints": ["9A:E6:1F:10:09:43:74:03:0C:A5:DF:F3:12:D8:74:AC:13:CE:6D:04:1B:2B:20:D3:17:93:B9:4E:33:6D:CA:2D"]
       }
     }]
